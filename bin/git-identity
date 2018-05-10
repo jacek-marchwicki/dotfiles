@@ -19,9 +19,9 @@ Use identity in your git repository:
   cd your_repository
   git identity private
 
-List current identity:
+List current identities:
   cd your_repository
-  git identity private
+  git identity --list
  
 Print current identity:
   cd your_repository
